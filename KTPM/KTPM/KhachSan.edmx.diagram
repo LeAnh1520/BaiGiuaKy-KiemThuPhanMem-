@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ddb241ec48b34344b8b47e3e7e2858ad" Name="Diagram1">
+        <EntityTypeShape EntityType="KhachSanModel.DatPhong" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KhachSanModel.DichVu" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KhachSanModel.HoaDon" Width="1.5" PointX="6" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KhachSanModel.KhachHang" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KhachSanModel.NhanVien" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KhachSanModel.Phong" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <AssociationConnector Association="KhachSanModel.fk_DatPhong_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="KhachSanModel.fk_DatPhong_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="KhachSanModel.fk_DatPhong_Phong" ManuallyRouted="false" />
+        <AssociationConnector Association="KhachSanModel.fk_HoaDon_DichVu" ManuallyRouted="false" />
+        <AssociationConnector Association="KhachSanModel.fk_HoaDon_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="KhachSanModel.fk_HoaDon_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="KhachSanModel.fk_HoaDon_Phong" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

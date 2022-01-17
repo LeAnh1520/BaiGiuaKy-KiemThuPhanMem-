@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17195525-7623-4892-8ceb-c494ffb502bf": {
+      "ProjectGuid": "17195525-7623-4892-8ceb-c494ffb502bf",
+      "DisplayName": "KTPM",
+      "ColorIndex": 0
+    },
+    "6e6cfda8-b365-4513-9b59-655caba3fab1": {
+      "ProjectGuid": "6e6cfda8-b365-4513-9b59-655caba3fab1",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

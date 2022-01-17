@@ -1,0 +1,16 @@
+D:\KTPM-GK\KTPM\KTPM\bin\Debug\KTPM.exe.config
+D:\KTPM-GK\KTPM\KTPM\bin\Debug\KTPM.exe
+D:\KTPM-GK\KTPM\KTPM\bin\Debug\KTPM.pdb
+D:\KTPM-GK\KTPM\KTPM\bin\Debug\EntityFramework.dll
+D:\KTPM-GK\KTPM\KTPM\bin\Debug\EntityFramework.SqlServer.dll
+D:\KTPM-GK\KTPM\KTPM\bin\Debug\EntityFramework.xml
+D:\KTPM-GK\KTPM\KTPM\bin\Debug\EntityFramework.SqlServer.xml
+D:\KTPM-GK\KTPM\KTPM\obj\Debug\KTPM.csproj.AssemblyReference.cache
+D:\KTPM-GK\KTPM\KTPM\obj\Debug\KTPM.csproj.SuggestedBindingRedirects.cache
+D:\KTPM-GK\KTPM\KTPM\obj\Debug\KTPM.FormDangKy.resources
+D:\KTPM-GK\KTPM\KTPM\obj\Debug\KTPM.Properties.Resources.resources
+D:\KTPM-GK\KTPM\KTPM\obj\Debug\KTPM.csproj.GenerateResource.cache
+D:\KTPM-GK\KTPM\KTPM\obj\Debug\KTPM.csproj.CoreCompileInputs.cache
+D:\KTPM-GK\KTPM\KTPM\obj\Debug\KTPM.csproj.CopyComplete
+D:\KTPM-GK\KTPM\KTPM\obj\Debug\KTPM.exe
+D:\KTPM-GK\KTPM\KTPM\obj\Debug\KTPM.pdb
